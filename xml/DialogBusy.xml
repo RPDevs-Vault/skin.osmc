@@ -2,9 +2,6 @@
 <window>
 	<!-- busydialog -->
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-
 	<controls>
 	
 		<control type="group">

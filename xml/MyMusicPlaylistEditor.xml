@@ -4,9 +4,6 @@
 	<defaultcontrol always="true">6</defaultcontrol>
 	<views>50</views>
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-
 	<controls>
 	
 		<control type="group">

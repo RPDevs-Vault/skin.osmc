@@ -3,9 +3,6 @@
 	<!-- pvrguidesearch -->
 	<defaultcontrol always="true">9</defaultcontrol>
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-
 	<controls>
 	
 		<!-- Dialog fanart -->

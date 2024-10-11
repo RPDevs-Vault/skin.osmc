@@ -3,9 +3,6 @@
 	<!-- dialogmasking -->
 	<defaultcontrol always="true">5</defaultcontrol>
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-
 	<controls>
 
 			<control type="group">

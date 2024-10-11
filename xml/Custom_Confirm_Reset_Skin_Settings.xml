@@ -3,9 +3,6 @@
 	<!-- Confirm skin settings reset -->
 	<defaultcontrol always="true">10</defaultcontrol>
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-	
 	<controls>
 
 		<!-- Dialog fanart -->

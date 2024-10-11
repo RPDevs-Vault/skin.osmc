@@ -3,9 +3,6 @@
 	<!-- sliderdialog -->
 	<defaultcontrol always="true">11</defaultcontrol>
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-
 	<controls>
 	
 		<control type="group">

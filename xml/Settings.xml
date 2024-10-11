@@ -4,9 +4,6 @@
 	<defaultcontrol always="true">9000</defaultcontrol>
 	<onload condition="!String.IsEmpty(Window(settings).Property(ChangeSettingsLevel))">ClearProperty(ChangeSettingsLevel)</onload>
 	
-	<!-- Textbox scroll reset -->
-	<include>10004ResetScroll</include>
-
 	<controls>
 	
 		<control type="group">
@@ -120,7 +117,7 @@
 					<include>Settings_coords4</include>
 					<textcolor>$VAR[TextColorFO]</textcolor>
 					<font>Font27</font>
-					<label>$VAR[SettingsExplanation]$INFO[Window(Home).Property(ResetScroll.10004)]</label>
+					<label>$VAR[SettingsExplanation]</label>
 					<visible>Skin.String(PlotFont,S)</visible>
 				</control>
 				
@@ -128,7 +125,7 @@
 					<include>Settings_coords5</include>
 					<textcolor>$VAR[TextColorFO]</textcolor>
 					<font>Font30</font>
-					<label>$VAR[SettingsExplanation]$INFO[Window(Home).Property(ResetScroll.10004)]</label>
+					<label>$VAR[SettingsExplanation]</label>
 					<visible>Skin.String(PlotFont,M)</visible>
 				</control>
 				
@@ -136,7 +133,7 @@
 					<include>Settings_coords6</include>
 					<textcolor>$VAR[TextColorFO]</textcolor>
 					<font>Font33</font>
-					<label>$VAR[SettingsExplanation]$INFO[Window(Home).Property(ResetScroll.10004)]</label>
+					<label>$VAR[SettingsExplanation]</label>
 					<visible>Skin.String(PlotFont,L)</visible>
 				</control>
 

@@ -3,9 +3,6 @@
 	<!-- filebrowser -->
 	<defaultcontrol always="true">450</defaultcontrol>
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-
 	<controls>
 
 		<!-- Dialog fanart -->

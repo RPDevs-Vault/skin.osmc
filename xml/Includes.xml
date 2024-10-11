@@ -112,7 +112,6 @@
 	<include file="Includes_GameControllers.xml" />
 	<include file="Includes_Home.xml" />
 	<include file="Includes_MediaFlags.xml" />
-	<include file="Includes_ResetScroll.xml" />
 	<include file="Includes_SubMenu.xml" />
 	<include file="Includes_Time_NowPlaying.xml" />
 	<include file="Includes_Widgets.xml" />

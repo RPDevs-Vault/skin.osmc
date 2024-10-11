@@ -3,9 +3,6 @@
 	<!-- textviewer -->
 	<defaultcontrol always="true">61</defaultcontrol>
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-
 	<controls>
 
 		<!-- Dialog fanart -->

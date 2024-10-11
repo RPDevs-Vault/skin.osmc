@@ -3,9 +3,6 @@
 	<!-- category -->
 	<defaultcontrol always="true">3</defaultcontrol>
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-	
 	<!-- Sidemenu menucontrol -->
 	<menucontrol>3001</menucontrol>
 	

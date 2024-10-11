@@ -3,9 +3,6 @@
 	<!-- Welcome -->
 	<defaultcontrol always="true">9001</defaultcontrol>
 	
-	<!-- Textbox scroll reset -->
-	<include>1101ResetScroll</include>
-
 	<controls>
 
 		<!-- Dialog fanart -->
@@ -40,7 +37,7 @@
 				<font>Font36</font>
 				<autoscroll delay="10000" time="1700" repeat="12000">True</autoscroll>
 				<textcolor>$VAR[TextColorFO]</textcolor>
-				<label>$LOCALIZE[31155]$INFO[Window(Home).Property(ResetScroll.1101)]</label>
+				<label>$LOCALIZE[31155]</label>
 			</control>
 
 			<!-- Buttons -->

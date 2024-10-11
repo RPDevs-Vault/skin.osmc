@@ -3,9 +3,6 @@
 	<!-- home -->
 	<defaultcontrol always="true">9000</defaultcontrol>
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-
 	<!-- Sidemenu menucontrol -->
 	<menucontrol>9001</menucontrol>
 

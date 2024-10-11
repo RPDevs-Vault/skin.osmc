@@ -3,9 +3,6 @@
 	<!-- smartplaylistrule -->
 	<defaultcontrol always="true">15</defaultcontrol>
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-
 	<controls>
 
 		<!-- Dialog fanart -->

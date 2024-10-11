@@ -64,7 +64,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -157,7 +156,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -223,7 +221,6 @@
 			<onleft>60</onleft>
 			<onright>60</onright>
 			<onback>60</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -267,7 +264,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -358,7 +354,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -484,7 +479,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -593,7 +587,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -679,7 +672,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -769,7 +761,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -861,7 +852,6 @@
 			<onleft>10</onleft>
 			<onright>10</onright>
 			<onback>10</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -948,7 +938,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -1046,7 +1035,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -1128,7 +1116,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -1211,7 +1198,6 @@
 			<onleft>50</onleft>
 			<onright>50</onright>
 			<onback>50</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -1350,7 +1336,6 @@
 			<onleft>100</onleft>
 			<onright>100</onright>
 			<onback>100</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -1385,7 +1370,6 @@
 			<onleft>3</onleft>
 			<onright>3</onright>
 			<onback>3</onback>
-			<include>SubMenuResetScroll</include>
 			<scrolltime>200</scrolltime>
 			<orientation>vertical</orientation>
 			<itemgap>0</itemgap>
@@ -1533,7 +1517,6 @@
 					<onleft>50</onleft>
 					<onright>50</onright>
 					<onback>50</onback>
-					<include>SubMenuResetScroll</include>
 					<scrolltime>200</scrolltime>
 					<orientation>vertical</orientation>
 					<itemgap>0</itemgap>

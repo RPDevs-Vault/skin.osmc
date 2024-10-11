@@ -7,9 +7,6 @@
 	<onunload>ClearProperty(colorpicker,10035)</onunload>
 	<onunload>ClearProperty(colorpickercolor,10035)</onunload>
 	
-	<!-- Textbox scroll reset -->
-	<include>10035ResetScroll</include>
-	
 	<!-- Skin Shortcuts -->
 	<onunload condition="System.HasAddon(script.skinshortcuts)">RunScript(script.skinshortcuts,type=buildxml&amp;mainmenuID=9000&amp;group=mainmenu&amp;levels=1&amp;options=noGroups)</onunload>
 	
@@ -1352,7 +1349,7 @@
 				<!-- Settings explanation -->
 				<control type="textbox">
 					<include>SkinSettings_coords20</include>
-					<label>$VAR[SkinSettingsExplanation]$INFO[Window(Home).Property(ResetScroll.10035)]</label>
+					<label>$VAR[SkinSettingsExplanation]</label>
 					<textcolor>$VAR[TextColorFO]</textcolor>
 					<font>Font27</font>
 					<visible>Skin.String(PlotFont,S)</visible>

@@ -4,9 +4,6 @@
 	<defaultcontrol always="true">10</defaultcontrol>
 	<views>10</views>
 	
-	<!-- Textbox scroll reset -->
-	<include>10702ResetScroll</include>
-
 	<!-- Sub menu menucontrol -->
 	<include condition="!Skin.HasSetting(KioskMode)">SubMenuMenucontrol</include>
 
@@ -151,7 +148,7 @@
 								<include>MyPVRGuide_coords15</include>
 								<font>Font27</font>
 								<align>left</align>
-								<label>$INFO[ListItem.Plot]$INFO[Window(Home).Property(ResetScroll.10702)]</label>
+								<label>$INFO[ListItem.Plot]</label>
 								<textcolor>$VAR[TextColorFO]</textcolor>
 								<autoscroll delay="8000" time="1800" repeat="10000">true</autoscroll>
 								<visible>Skin.String(PlotFont,S)</visible>
@@ -160,7 +157,7 @@
 								<include>MyPVRGuide_coords16</include>
 								<font>Font30</font>
 								<align>left</align>
-								<label>$INFO[ListItem.Plot]$INFO[Window(Home).Property(ResetScroll.10702)]</label>
+								<label>$INFO[ListItem.Plot]</label>
 								<textcolor>$VAR[TextColorFO]</textcolor>
 								<autoscroll delay="8000" time="1700" repeat="10000">true</autoscroll>
 								<visible>Skin.String(PlotFont,M)</visible>
@@ -169,7 +166,7 @@
 								<include>MyPVRGuide_coords17</include>
 								<font>Font33</font>
 								<align>left</align>
-								<label>$INFO[ListItem.Plot]$INFO[Window(Home).Property(ResetScroll.10702)]</label>
+								<label>$INFO[ListItem.Plot]</label>
 								<textcolor>$VAR[TextColorFO]</textcolor>
 								<autoscroll delay="8000" time="1600" repeat="10000">true</autoscroll>
 								<visible>Skin.String(PlotFont,L)</visible>

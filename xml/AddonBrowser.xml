@@ -4,9 +4,6 @@
 	<defaultcontrol always="true">51</defaultcontrol>
 	<views>50,51</views>
 	
-	<!-- Textbox scroll reset -->
-	<include>ResetScroll</include>
-	
 	<!-- Sub menu menucontrol -->
 	<include condition="!Skin.HasSetting(KioskMode)">SubMenuMenucontrol</include>
 	
